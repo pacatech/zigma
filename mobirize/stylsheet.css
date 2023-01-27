@@ -1,0 +1,25 @@
+#welcome{
+    width: 700px;
+    height: 500px;
+    padding-top: 100px;
+    background-color:transparent;
+    border-style:hidden;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.2); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer;
+}
+#message{
+    color: rgba(211, 219, 96, 0.87);
+}
+#form7-m{
+    margin: 0;
+    padding: 0;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  #Services{
+    padding: 0;
+  }
